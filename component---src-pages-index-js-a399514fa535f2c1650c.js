@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmy_portfolio_website=self.webpackChunkmy_portfolio_website||[]).push([[678],{7704:function(e,t,n){n.r(t);var l=n(7294);t.default=function(){return l.createElement("main",null,l.createElement("h1",null,"It's-a-me, @inshalkhan.dev"))}}}]);
+//# sourceMappingURL=component---src-pages-index-js-a399514fa535f2c1650c.js.map
